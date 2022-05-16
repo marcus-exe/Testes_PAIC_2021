@@ -1,2 +1,3 @@
 # Testes_PAIC_2021
- Alguns códigos para o PAIC
+    O códigos usados nesse PAIC estão relacionados com Redes Neurais, Áudios e Datasets
+    Tudo está sendo extraído via Python
